@@ -45,10 +45,4 @@ Este projeto é uma aplicação web simples para organizar um jogo de Amigo Secr
 - Implementar animações para o sorteio.
 - Permitir a exportação dos resultados para um arquivo de texto.
 
-## Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
----
-
-**Divirta-se organizando seu Amigo Secreto!** 🎉
+**Divirta-se organizando seu Amigo Secreto!**
